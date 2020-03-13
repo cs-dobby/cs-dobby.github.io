@@ -1,6 +1,6 @@
 ## 대학원 일기 (Feat. 공대)
 
-* [Introduction](./introduction.md)
+* [Introduction](./ntroduction.md)
 
 You can use the [editor on GitHub](https://github.com/cs-dobby/cs-dobby.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
